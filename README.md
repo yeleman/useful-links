@@ -17,7 +17,7 @@ git clone git://github.com/jquery/jquery.git
 Python
 -----
 
-* 
+*
 
 Django
 -----
@@ -43,6 +43,7 @@ CSS
 
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [metro-bootstrap](http://talkslab.github.com/metro-bootstrap/index.html) theme de windows 8
+* [Priting Web Sites](http://drublic.de/blog/printing-the-web/)
 
 HTML
 ----
@@ -52,8 +53,8 @@ HTML
 JAVA
 ----
 
-* 
- 
+*
+
 
 Éditeur de texte
 --------
@@ -61,5 +62,5 @@ JAVA
 
 Other
 -----
-* [fotogrph](http://fotogrph.com): photo gratuite pour les sites web 
+* [fotogrph](http://fotogrph.com): photo gratuite pour les sites web
 * [http://www.iconfinder.com](http://www.iconfinder.com): Les icônes gratuites
