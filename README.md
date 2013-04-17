@@ -9,6 +9,7 @@ Javascript
 * [Tn3gallery](http://www.tn3gallery.com/):Comprend des effets de transition, diaporama, les options multiples album, skinning CSS et bien plus encore
 
 * [jQuery](http://jqueryui.com/) [Guthub](https://github.com/jquery/jquery) : Framework
+* [angularjs](http://angularjs.org/#mongolab-js)
 
 ```bash
 git clone git://github.com/jquery/jquery.git
@@ -44,6 +45,8 @@ CSS
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [metro-bootstrap](http://talkslab.github.com/metro-bootstrap/index.html) theme de windows 8
 * [Priting Web Sites](http://drublic.de/blog/printing-the-web/)
+* [angular with ng-grid/](http://angular-ui.github.io/ng-grid/)
+* [angular with bootstrap](http://angular-ui.github.io/bootstrap/)
 
 HTML
 ----
