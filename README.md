@@ -8,8 +8,9 @@ Javascript
 
 * [Tn3gallery](http://www.tn3gallery.com/):Comprend des effets de transition, diaporama, les options multiples album, skinning CSS et bien plus encore
 
-* [jQuery](http://jqueryui.com/) [Guthub](https://github.com/jquery/jquery) : Framework
+* [jQuery](http://jqueryui.com/) [Github](https://github.com/jquery/jquery) : Framework
 * [angularjs](http://angularjs.org/#mongolab-js)
+* [http://jspdf.com/](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
 
 ```bash
 git clone git://github.com/jquery/jquery.git
@@ -23,7 +24,7 @@ Python
 Django
 ------
 
-* [Django Generic Form Handler View – fhurl](http://pythonhosted.org/fhurl/) [Guthub](http://github.com/amitu/fhurl/)
+* [Django Generic Form Handler View – fhurl](http://pythonhosted.org/fhurl/) [Github](http://github.com/amitu/fhurl/)
     Install fhurl using:  ```easy_install fhurl```
 
 * [Importd for django](http://pythonhosted.org/importd/)
@@ -48,6 +49,7 @@ CSS
 * [angular with ng-grid/](http://angular-ui.github.io/ng-grid/)
 * [angular with bootstrap](http://angular-ui.github.io/bootstrap/)
 * [layoutit](http://www.layoutit.com) 
+* [learnlayout](http://fr.learnlayout.com/toc.html) Apprendre les mises en page CSS
 
 HTML
 ----
@@ -69,4 +71,4 @@ Other
 * [fotogrph](http://fotogrph.com): photo gratuite pour les sites web
 * [icones.pro](http://icones.pro) Les icônes gratuites
 * [http://www.iconfinder.com](http://www.iconfinder.com): Les icônes gratuites
-* [mitmproxy](http://mitmproxy.org/) [Guthub](github.com/cortesi/mitmproxy):  Un outil interactif, capable SSL man-in-the-middle proxy pour HTTP avec une interface de console.
+* [mitmproxy](http://mitmproxy.org/) [Github](github.com/cortesi/mitmproxy):  Un outil interactif, capable SSL man-in-the-middle proxy pour HTTP avec une interface de console.
