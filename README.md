@@ -49,7 +49,10 @@ CSS
 * [angular with ng-grid/](http://angular-ui.github.io/ng-grid/)
 * [angular with bootstrap](http://angular-ui.github.io/bootstrap/)
 * [layoutit](http://www.layoutit.com) 
-* [learnlayout](http://fr.learnlayout.com/toc.html) Apprendre les mises en page CSS
+* [learnlayout](http://fr.learnlayout.com/toc.html) Apprendre les mises en page CSS.
+* [css3maker](http://www.css3maker.com/) animation, rotation, 
+* [fontsquirrel](http://www.fontsquirrel.com/) font squirrel 100% Free For Commercial use.
+* [cssmatic](http://www.cssmatic.com/) The ultimate CSS tools for web designers.
 
 HTML
 ----
