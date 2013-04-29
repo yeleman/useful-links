@@ -33,6 +33,12 @@ Django
 * [Bootstrap-your-django-admin](http://www.codingnot.es/bootstrap-your-django-admin-in-3-minutes)
 
 * [Hébergement Django](http://hosting.djangofoo.com/)
+ 
+Flask-peewee
+------------
+
+* [documentation flask-peewee](http://flask-peewee.readthedocs.org/en/latest/)
+* [Structuring flask apps, a how-to for those coming from Django](http://charlesleifer.com/blog/structuring-flask-apps-a-how-to-for-those-coming-from-django/)
 
 QT
 --
@@ -63,8 +69,6 @@ HTML
 
 JAVA
 ----
-
-*
 
 
 Éditeur de texte
