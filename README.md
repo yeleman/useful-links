@@ -19,7 +19,8 @@ git clone git://github.com/jquery/jquery.git
 Python
 ------
 
-*
+* [Pylons](http://docs.pylonsproject.org/projects/pyramid/en/latest/index.html) [Github] (https://github.com/Pylons) Le cadre de développement d'applications Web Pyramid 
+
 
 Django
 ------
