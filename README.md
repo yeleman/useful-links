@@ -75,6 +75,8 @@ JAVA
 Éditeur de texte
 --------
 ###Sublime Text
+ 
+ [liste-des-plugins-sublime-text](http://sametmax.com/liste-des-plugins-sublime-text-que-jutilise/)
 
 Other
 -----
