@@ -1,6 +1,8 @@
 Javascript
 ----------
 
+* [unheap](http://www.unheap.com) jQuery plugins
+
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
 
