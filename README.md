@@ -2,6 +2,7 @@ Javascript
 ----------
 
 * [unheap](http://www.unheap.com) jQuery plugins
+* [serifaddons](http://serifaddons.com/) Améliorer l'apparence et la convivialité de votre site Web Serif WebPlus en utilisant nos scripts et codes libres.
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
