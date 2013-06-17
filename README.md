@@ -15,6 +15,7 @@ Javascript
 * [jQuery](http://jqueryui.com/) [Github](https://github.com/jquery/jquery) : Framework
 * [angularjs](http://angularjs.org/#mongolab-js)
 * [jspdf](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
+* [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
 
 ```bash
 git clone git://github.com/jquery/jquery.git
