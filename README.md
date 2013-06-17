@@ -4,6 +4,8 @@ Javascript
 * [unheap](http://www.unheap.com) jQuery plugins
 * [serifaddons](http://serifaddons.com/) Améliorer l'apparence et la convivialité de votre site Web Serif WebPlus en utilisant nos scripts et codes libres.
 * [9bitstudios](http://9bitstudios.github.io/flexisel/) A responsive carousel jQuery plugin...
+* [jspdf](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
+* [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
@@ -13,13 +15,10 @@ Javascript
 * [Tn3gallery](http://www.tn3gallery.com/):Comprend des effets de transition, diaporama, les options multiples album, skinning CSS et bien plus encore
 
 * [jQuery](http://jqueryui.com/) [Github](https://github.com/jquery/jquery) : Framework
+    ```bash
+    git clone git://github.com/jquery/jquery.git
+    ```
 * [angularjs](http://angularjs.org/#mongolab-js)
-* [jspdf](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
-* [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
-
-```bash
-git clone git://github.com/jquery/jquery.git
-```
 
 Python
 ------
