@@ -24,7 +24,8 @@ Javascript
 Python
 ------
 
-* [Pylons](http://docs.pylonsproject.org/projects/pyramid/en/latest/index.html) [Github] (https://github.com/Pylons) Le cadre de développement d'applications Web Pyramid 
+* [Pylons](http://docs.pylonsproject.org/projects/pyramid/en/latest/index.html) [Github] (https://github.com/Pylons) Le cadre de développement d'applications Web Pyramid
+* [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/) libs python for windows
 
 
 Django
