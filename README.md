@@ -6,6 +6,7 @@ Javascript
 * [9bitstudios](http://9bitstudios.github.io/flexisel/) A responsive carousel jQuery plugin...
 * [jspdf](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
 * [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
+* [spinejs](http://spinejs.com/)
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
@@ -66,7 +67,8 @@ CSS
 * [fontsquirrel](http://www.fontsquirrel.com/) font squirrel 100% Free For Commercial use.
 * [cssmatic](http://www.cssmatic.com/) The ultimate CSS tools for web designers.
 * [3dcsstext](http://www.3dcsstext.com/)  text 3D 
-* [benschwarz gallery-css](http://benschwarz.github.io/gallery-css/#item-3) 
+* [benschwarz gallery-css](http://benschwarz.github.io/gallery-css/#item-3)
+* [minimamente magic-css3-animations](http://www.minimamente.com/magic-css3-animations/)
 
 HTML
 ----
