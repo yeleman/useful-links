@@ -76,6 +76,12 @@ HTML
 
 * [Freecsstemplates](http://www.freecsstemplates.org/)
 
+
+Git
+----
+
+* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/ch02.html)
+
 JAVA
 ----
 
