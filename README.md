@@ -72,6 +72,8 @@ CSS
 * [minimamente magic-css3-animations](http://www.minimamente.com/magic-css3-animations/)
 * [les 30 selecteurs css a connaitre](http://www.tomsyweb.com/component/content/article/48-css/101-les-30-selecteurs-css-a-connaitre)
 * [Buttons](http://alexwolfe.github.io/Buttons/)
+* [ModalWindowEffects](http://tympanus.net/Development/ModalWindowEffects/) Nifty Effets fenêtre modale. Il existe de nombreuses possibilités de superpositions modales à comparaître
+Voici quelques moyens modernes de leur montrer en utilisant des transitions et des animations CSS.
 
 HTML
 ----
