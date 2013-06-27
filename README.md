@@ -54,6 +54,7 @@ QT
 
 * [Nullege](http://nullege.com/): un moteur de recherche pour le code source Python
 * [Zetcode](http://zetcode.com/)
+* [pyside-docs](https://deptinfo-ensip.univ-poitiers.fr/ENS/pyside-docs/)
 
 CSS
 ---
