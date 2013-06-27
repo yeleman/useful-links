@@ -96,8 +96,8 @@ JAVA
 --------
 ###Sublime Text
  
- [liste-des-plugins-sublime-text](http://sametmax.com/liste-des-plugins-sublime-text-que-jutilise/)
- [sublime packages package control](http://wbond.net/sublime_packages/package_control)
+ * [liste-des-plugins-sublime-text](http://sametmax.com/liste-des-plugins-sublime-text-que-jutilise/)
+ * [sublime packages package control](http://wbond.net/sublime_packages/package_control)
 
 Other
 -----
