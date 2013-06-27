@@ -7,6 +7,8 @@ Javascript
 * [jspdf](http://jspdf.com/) [Github](https://github.com/MrRio/jsPDF) Une solution côté client HTML5 pour générer des fichiers PDF. Parfait pour les billets de spectacles, rapports, certificats
 * [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
 * [spinejs](http://spinejs.com/)
+* [progression js](http://git.aaronlumsden.com/progression/)
+* [s-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
