@@ -10,6 +10,8 @@ Javascript
 * [progression js](http://git.aaronlumsden.com/progression/)
 * [s-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
 
+* [angularjs](http://angularjs.org/#mongolab-js)
+
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
 
@@ -21,7 +23,7 @@ Javascript
     ```bash
     git clone git://github.com/jquery/jquery.git
     ```
-* [angularjs](http://angularjs.org/#mongolab-js)
+* [www.flotcharts](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
 
 Python
 ------
