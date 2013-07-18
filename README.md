@@ -112,3 +112,4 @@ Other
 * [http://www.iconfinder.com](http://www.iconfinder.com): Les icônes gratuites
 * [mitmproxy](http://mitmproxy.org/) [Github](github.com/cortesi/mitmproxy):  Un outil interactif, capable SSL man-in-the-middle proxy pour HTTP avec une interface de console.
 * [unicode-table](http://unicode-table.com) Unicode character table
+* [Lucidchart](https://www.lucidchart.com/) pour faire des diagrammes 
