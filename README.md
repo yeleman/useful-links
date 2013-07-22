@@ -109,7 +109,9 @@ Other
 * [browserdiet](http://browserdiet.com/fr/) Que se passerait-il si on mettait ensemble un groupe d'experts, travaillant sur ​​de gros sites, afin de créer le guide définitif de la performance front-end ?
 * [fotogrph](http://fotogrph.com): photo gratuite pour les sites web
 * [icones.pro](http://icones.pro) Les icônes gratuites
-* [http://www.iconfinder.com](http://www.iconfinder.com): Les icônes gratuites
+* [iconfinder.com](http://www.iconfinder.com): Les icônes gratuites
 * [mitmproxy](http://mitmproxy.org/) [Github](github.com/cortesi/mitmproxy):  Un outil interactif, capable SSL man-in-the-middle proxy pour HTTP avec une interface de console.
 * [unicode-table](http://unicode-table.com) Unicode character table
-* [Lucidchart](https://www.lucidchart.com/) pour faire des diagrammes 
+* [Lucidchart](https://www.lucidchart.com/) pour faire des diagrammes
+* [jbed.fr.malavida.com/android](http://jbed.fr.malavida.com/android/) JBED est un logiciel développé pour pouvoir utiliser des applications Java sur des dispositifs Android.
+* [filecrop.com/Java-MIDP](http://www.filecrop.com/Java-MIDP.apk.html)
