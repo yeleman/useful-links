@@ -24,6 +24,7 @@ Javascript
     git clone git://github.com/jquery/jquery.git
     ```
 * [www.flotcharts](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
+* [datawrapper](http://datawrapper.de) Datawrapper réduit le temps nécessaire pour créer et intégrer un graphique simple de quelques heures à quelques minutes.
 
 Python
 ------
