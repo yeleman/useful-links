@@ -11,6 +11,7 @@ Javascript
 * [s-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
 
 * [angularjs](http://angularjs.org/#mongolab-js)
+* [ricostacruz](http://ricostacruz.com/nprogress/) Une barre de progression nanoscopique. Doté d'animations de ruissellement réalistes pour convaincre les utilisateurs que quelque chose se passe!
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
