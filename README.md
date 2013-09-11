@@ -12,6 +12,7 @@ Javascript
 
 * [angularjs](http://angularjs.org/#mongolab-js)
 * [ricostacruz](http://ricostacruz.com/nprogress/) Une barre de progression nanoscopique. Doté d'animations de ruissellement réalistes pour convaincre les utilisateurs que quelque chose se passe!
+* [lafermeduweb](http://www.lafermeduweb.net/billet/http://www.lafermeduweb.net/billet/favico-js-animez-et-manipulez-le-favicon-de-vos-pages-web-en-js-1633.html-1633.html) Favico.js est une bibliothèque Javascript permettant de manipuler et animer de manière avancée le favicon de vos pages web.
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
