@@ -120,3 +120,4 @@ Other
 * [Lucidchart](https://www.lucidchart.com/) pour faire des diagrammes
 * [jbed.fr.malavida.com/android](http://jbed.fr.malavida.com/android/) JBED est un logiciel développé pour pouvoir utiliser des applications Java sur des dispositifs Android.
 * [filecrop.com/Java-MIDP](http://www.filecrop.com/Java-MIDP.apk.html)
+* [prediction](http://prediction.io/) PredictionIO est un serveur d'apprentissage automatique open source pour les développeurs de logiciels pour créer des fonctions prédictives, telles que la personnalisation, la recommandation et la découverte de contenu
