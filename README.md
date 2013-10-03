@@ -123,3 +123,5 @@ Other
 * [filecrop.com/Java-MIDP](http://www.filecrop.com/Java-MIDP.apk.html)
 * [prediction](http://prediction.io/) PredictionIO est un serveur d'apprentissage automatique open source pour les développeurs de logiciels pour créer des fonctions prédictives, telles que la personnalisation, la recommandation et la découverte de contenu
 * [Solo](http://www.lafermeduweb.net/billet/soloapp-une-plateforme-de-gestion-de-projet-php-pour-freelance-1642.html) soloapp une plateforme de gestion de projet php
+* [umap openstreetmap](http://umap.openstreetmap.fr) uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
+Et c'est open source! 
