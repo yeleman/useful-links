@@ -8,13 +8,14 @@ Javascript
 * [outyear](http://www.outyear.co.uk/smint/) Menu collante y compris la navigation truc
 * [spinejs](http://spinejs.com/)
 * [progression js](http://git.aaronlumsden.com/progression/)
-* [s-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
+* [Is it time to drop jquery-essentials to learning javascript from a jquery background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
 
 * [angularjs](http://angularjs.org/#mongolab-js)
 * [ricostacruz](http://ricostacruz.com/nprogress/) Une barre de progression nanoscopique. Doté d'animations de ruissellement réalistes pour convaincre les utilisateurs que quelque chose se passe!
 * [lafermeduweb](http://www.lafermeduweb.net/billet/http://www.lafermeduweb.net/billet/favico-js-animez-et-manipulez-le-favicon-de-vos-pages-web-en-js-1633.html-1633.html) Favico.js est une bibliothèque Javascript permettant de manipuler et animer de manière avancée le favicon de vos pages web.
 * [jedrzejchalubek](http://jedrzejchalubek.com/glide/) Glide est réactif et curseur jQuery touch-friendly. Basé sur les transitions CSS3 avec repli à broswers âgées. C'est simple, léger et rapide. Conçu pour glisser, rien de moins, rien de plus.
 * [dmauro Keypress](http://dmauro.github.io/Keypress/)
+* [Slidr js un moteur de slides javascript](http://www.lafermeduweb.net/billet/slidr-js-un-moteur-de-slides-javascript-leger-et-efficace-1659.html) Slidr js un moteur de slides javascript leger et efficace 
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
