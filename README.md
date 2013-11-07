@@ -16,6 +16,7 @@ Javascript
 * [jedrzejchalubek](http://jedrzejchalubek.com/glide/) Glide est réactif et curseur jQuery touch-friendly. Basé sur les transitions CSS3 avec repli à broswers âgées. C'est simple, léger et rapide. Conçu pour glisser, rien de moins, rien de plus.
 * [dmauro Keypress](http://dmauro.github.io/Keypress/)
 * [Slidr js un moteur de slides javascript](http://www.lafermeduweb.net/billet/slidr-js-un-moteur-de-slides-javascript-leger-et-efficace-1659.html) Slidr js un moteur de slides javascript leger et efficace 
+* [slideme un slideshow jquery performant fullscreen et responsive](http://www.lafermeduweb.net/billet/slideme-un-slideshow-jquery-performant-fullscreen-et-responsive-1664.html)
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
