@@ -9,6 +9,7 @@ Javascript
 * [spinejs](http://spinejs.com/)
 * [progression js](http://git.aaronlumsden.com/progression/)
 * [Is it time to drop jquery-essentials to learning javascript from a jquery background](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/)
+* [physicsjs ](http://www.lafermeduweb.net/billet/physicsjs-un-moteur-physique-js-modulaire-et-simple-a-utiliser-1691.html) physicsjs un moteur physique js modulaire et simple à utiliser
 
 * [angularjs](http://angularjs.org/#mongolab-js)
 * [ricostacruz](http://ricostacruz.com/nprogress/) Une barre de progression nanoscopique. Doté d'animations de ruissellement réalistes pour convaincre les utilisateurs que quelque chose se passe!
