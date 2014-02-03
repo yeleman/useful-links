@@ -113,8 +113,13 @@ JAVA
  * [liste-des-plugins-sublime-text](http://sametmax.com/liste-des-plugins-sublime-text-que-jutilise/)
  * [sublime packages package control](http://wbond.net/sublime_packages/package_control)
 
+Android
+-------
+* [ROOT Framaroot, a one-click apk to root some devices](http://forum.xda-developers.com/showthread.php?t=2130276)
+
 Other
 -----
+
 * [browserdiet](http://browserdiet.com/fr/) Que se passerait-il si on mettait ensemble un groupe d'experts, travaillant sur ​​de gros sites, afin de créer le guide définitif de la performance front-end ?
 * [fotogrph](http://fotogrph.com): photo gratuite pour les sites web
 * [icones.pro](http://icones.pro) Les icônes gratuites
