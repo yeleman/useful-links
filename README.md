@@ -18,6 +18,7 @@ Javascript
 * [dmauro Keypress](http://dmauro.github.io/Keypress/)
 * [Slidr js un moteur de slides javascript](http://www.lafermeduweb.net/billet/slidr-js-un-moteur-de-slides-javascript-leger-et-efficace-1659.html) Slidr js un moteur de slides javascript leger et efficace 
 * [slideme un slideshow jquery performant fullscreen et responsive](http://www.lafermeduweb.net/billet/slideme-un-slideshow-jquery-performant-fullscreen-et-responsive-1664.html)
+* [croppic le crop d'image ergonomique en plugin jquery](http://www.lafermeduweb.net/billet/croppic-le-crop-d-image-ergonomique-en-plugin-jquery-1712.html)
 
 ### Graphiques
 * [Highcharts](http://www.highcharts.com/): library
