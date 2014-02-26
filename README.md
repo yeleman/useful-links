@@ -122,6 +122,7 @@ Android
 
 Other
 -----
+* [Creating Excel files with Python and XlsxWriter](https://xlsxwriter.readthedocs.org/)
 
 * [browserdiet](http://browserdiet.com/fr/) Que se passerait-il si on mettait ensemble un groupe d'experts, travaillant sur ​​de gros sites, afin de créer le guide définitif de la performance front-end ?
 * [fotogrph](http://fotogrph.com): photo gratuite pour les sites web
