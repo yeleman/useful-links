@@ -71,7 +71,7 @@ QT
 
 CSS
 ---
-
+* [fontello icon](http://fontello.com)
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Bootstrapcdn](http://www.bootstrapcdn.com/) 
 * [metro-bootstrap](http://talkslab.github.com/metro-bootstrap/index.html) theme de windows 8
