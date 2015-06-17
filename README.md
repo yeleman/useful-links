@@ -49,8 +49,7 @@ Django
     Install fhurl using:  ```easy_install fhurl```
 
 * [Importd for django](http://pythonhosted.org/importd/)
-    Install fhurl using:  ```easy_install importd
-                            ```
+    Install fhurl using:  ```easy_install importd```
 * [Bootstrap-your-django-admin](http://www.codingnot.es/bootstrap-your-django-admin-in-3-minutes)
 
 * [Hébergement Django](http://hosting.djangofoo.com/)
@@ -93,6 +92,9 @@ CSS
 Voici quelques moyens modernes de leur montrer en utilisant des transitions et des animations CSS.
 * [ce-que-vous-avez-toujours-voulu-savoir-sur-css](http://iamvdo.me/blog/ce-que-vous-avez-toujours-voulu-savoir-sur-css)
 
+FONT
+----
+ [Humanitarian-Font](https://unhcr.github.io/Humanitarian-Font/)
 
 HTML
 ----
