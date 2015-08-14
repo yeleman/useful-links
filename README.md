@@ -140,3 +140,8 @@ Other
 * [umap openstreetmap](http://umap.openstreetmap.fr) uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans votre site.
 Et c'est open source! 
 * [Full-stack code anyone can run from their browser](http://runnable.com/)
+
+J2ME
+-------
+* [J2ME Polish](http://www.j2mepolish.org/)
+
