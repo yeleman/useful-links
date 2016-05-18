@@ -125,7 +125,7 @@ JAVA
 Android
 -------
 * [ROOT Framaroot, a one-click apk to root some devices](http://forum.xda-developers.com/showthread.php?t=2130276)
-
+* [FAIRE UNE REQUÊTE HTTP GET AVEC RETROFIT EN ANDROID ] (http://www.machada.fr/requete-http-get-retrofit-android)
 Other
 -----
 * [Creating Excel files with Python and XlsxWriter](https://xlsxwriter.readthedocs.org/)
